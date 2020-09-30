@@ -1,8 +1,8 @@
 <template>
   <div>
     <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Hello Vue 3.0 + Vite" />
-    <hello-world msg="Hello Vue 3.0 + Vite" />
+    <HelloWorld msg="Hello Vue 3.0 + Vite" others="hehehe" />
+    <hello-world msg="Hello Vue 3.0 + Vite" noshow="hahaha" />
   </div>
 </template>
 
